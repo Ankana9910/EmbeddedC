@@ -12,4 +12,4 @@
 ***
 |Build|CppCheck|Codacy|Git-Inspector|
 |----|-----|----|--|
-||[![Cppcheck](https://github.com/Ankana9910/EmbeddedC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ankana9910/EmbeddedC/actions/workflows/cppcheck.yml)||[![Contribution Check - Git Inspector](https://github.com/Ankana9910/EmbeddedC/actions/workflows/gitins.yml/badge.svg)](https://github.com/Ankana9910/EmbeddedC/actions/workflows/gitins.yml)|
+|[![C/C++ CI - Build Status](https://github.com/Ankana9910/EmbeddedC/actions/workflows/build.yml/badge.svg)](https://github.com/Ankana9910/EmbeddedC/actions/workflows/build.yml)|[![Cppcheck](https://github.com/Ankana9910/EmbeddedC/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Ankana9910/EmbeddedC/actions/workflows/cppcheck.yml)||[![Contribution Check - Git Inspector](https://github.com/Ankana9910/EmbeddedC/actions/workflows/gitins.yml/badge.svg)](https://github.com/Ankana9910/EmbeddedC/actions/workflows/gitins.yml)|
