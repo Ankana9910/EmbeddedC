@@ -4,11 +4,11 @@
 ***
 ## With Both Switches Closed
 ***
-![](https://github.com/Ankana9910/EmbeddedC/blob/8aff971d2673f54c3e93ba570898fa33d09e9adc/Activity1/simulation/cktclo.png)
+![](https://github.com/Ankana9910/EmbeddedC/blob/5b925fc6e233f3b5ef810231394c23d53b1f3f9a/simulation/cktclo.png)
 ***
 ## With One/Both Switches Opened
 ***
-![](https://github.com/Ankana9910/EmbeddedC/blob/8aff971d2673f54c3e93ba570898fa33d09e9adc/Activity1/simulation/cktopen.png)
+![]https://github.com/Ankana9910/EmbeddedC/blob/5b925fc6e233f3b5ef810231394c23d53b1f3f9a/simulation/cktopen.png)
 ***
 |Build|CppCheck|Codacy|Git-Inspector|
 |----|-----|----|--|
