@@ -1,2 +1,8 @@
-nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]
+src/activity2.c:33:14: style: The scope of the variable 'temp' can be reduced. [variableScope]
+     uint8_t temp;
+             ^
+src/activity2.c:39:13: style: Variable 'temp' is assigned a value that is never used. [unreadVariable]
+        temp=readadc(0);
+            ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
 
