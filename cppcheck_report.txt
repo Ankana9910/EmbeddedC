@@ -1,3 +1,9 @@
+main.c:28:14: style: The scope of the variable 'temp' can be reduced. [variableScope]
+    uint16_t temp;
+             ^
+main.c:39:22: style: Variable 'temp' is assigned a value that is never used. [unreadVariable]
+                 temp=ReadADC(0);
+                     ^
 src/activity2.c:33:14: style: The scope of the variable 'temp' can be reduced. [variableScope]
      uint8_t temp;
              ^
