@@ -4,7 +4,10 @@ BUILD_DIR = Build
 
 # All Source code files
 SRC = main.c\
-src/act1.c src/activity2.c
+src/A1.c\
+src/A2.c\
+src/A3.c\
+src/A4.c\
 
 # All header file paths
 INC = -I inc
