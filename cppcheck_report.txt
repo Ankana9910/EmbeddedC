@@ -1,0 +1,14 @@
+src/A3.c:52:17: style: Condition 'val>=210' is always true [knownConditionTrueFalse]
+    else if((val>=210) && (val<=509)){
+                ^
+src/A3.c:35:11: note: Assuming that condition 'val<=209' is not redundant
+    if(val<=209){
+          ^
+src/A3.c:52:17: note: Condition 'val>=210' is always true
+    else if((val>=210) && (val<=509)){
+                ^
+src/A4.c:15:0: style: The function 'UARTreadchar' is never used. [unusedFunction]
+
+^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
