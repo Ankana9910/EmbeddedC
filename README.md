@@ -1,12 +1,6 @@
 # EmbeddedC
 ***
-## Activity 1
-***
-![](https://github.com/Ankana9910/EmbeddedC/blob/5b925fc6e233f3b5ef810231394c23d53b1f3f9a/simulation/cktclo.png)
-***
-## Activity 2
-***
-![](https://github.com/Ankana9910/EmbeddedC/blob/886856117d71f08308528316e22855e3b1a5e5b9/simulation/adc.png)
+![](https://github.com/Ankana9910/EmbeddedC/blob/cd0e063c81cc464f2cf96622d91d8734627de455/simulation/image.png)
 ***
 |Build|CppCheck|Codacy|Git-Inspector|
 |----|-----|----|--|
