@@ -1,10 +1,10 @@
-src/A3.c:52:17: style: Condition 'val>=210' is always true [knownConditionTrueFalse]
+src/A3.c:64:17: style: Condition 'val>=210' is always true [knownConditionTrueFalse]
     else if((val>=210) && (val<=509)){
                 ^
-src/A3.c:35:11: note: Assuming that condition 'val<=209' is not redundant
+src/A3.c:47:11: note: Assuming that condition 'val<=209' is not redundant
     if(val<=209){
           ^
-src/A3.c:52:17: note: Condition 'val>=210' is always true
+src/A3.c:64:17: note: Condition 'val>=210' is always true
     else if((val>=210) && (val<=509)){
                 ^
 src/A4.c:15:0: style: The function 'UARTreadchar' is never used. [unusedFunction]
