@@ -1,8 +1,5 @@
 src/A4.c:28:0: style: The function 'UARTreadchar' is never used. [unusedFunction]
 
 ^
-src/A4.c:40:0: style: The function 'UARTwritecharacter' is never used. [unusedFunction]
-
-^
 nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
 
