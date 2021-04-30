@@ -1,10 +1,14 @@
-/*
+/**
+ * @file main.c
+ * @author Ankana ()
+ * @brief
+ * @version 0.1
+ * @date 2021-04-30
+ *
+ * @copyright Copyright (c) 2021
+ *
  */
-/** \brief Including All Header Files
- *
- *
- *
- */
+
 
 #include <avr/io.h>
 #include <util/delay.h>
